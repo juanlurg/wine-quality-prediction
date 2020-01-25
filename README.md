@@ -21,5 +21,6 @@ The purpose of this project is to predict wine quality based on different set of
 * Scipy
 
 ## Notebooks
-* [Exploratory Data Analysis on UCI wine dataset]() **under development**
+* Exploratory Data Analysis on UCI wine dataset **(under development)**
 * [Regression for Wine quality prediction](https://github.com/juanlux/wine-quality-prediction/blob/master/Regression%20for%20Wine%20quality%20prediction.ipynb)
+* Stacking models and gradient boosting for wine quality prediction **(backlog)**
